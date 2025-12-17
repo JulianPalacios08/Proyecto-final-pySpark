@@ -1,0 +1,18 @@
+# === Core data processing ===
+pandas>=1.5
+numpy>=1.23
+
+# === Visualization (headless) ===
+matplotlib>=3.6
+
+# === Geospatial processing ===
+geopandas>=0.13
+shapely>=2.0
+pyproj>=3.5
+fiona>=1.9
+
+# === Big Data / Spark ===
+pyspark>=3.1
+
+# === Optional (recommended for performance) ===
+pyarrow>=10.0

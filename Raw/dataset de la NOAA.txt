@@ -1,0 +1,9 @@
+En esta carpeta llamada Raw es donde debería ir todo el dataset Global Historical Climatology Network (GHCN)
+con datos diarios, pero al ser muy pesado al descomprimirse y al ser demasiados archivos .scv (son mas de 5000)
+entonces se recurrió a dejar el link de la pagina oficial de la NOAA en la cual se encuentra el dataset que 
+se puede descargar para realizar todo el proyecto que se encuentra en el repositorio. Cabe recalcar que en 
+el proyecto si se descargo el dataset y se tenia guardado en esta carpeta llamada raw. 
+
+El dataset se puede descargar desde:
+
+https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/
